@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alberto</h1>
 <h3 align="center">A Dev Jr from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betoidk" alt="betoidk" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betoidk" alt="betoidk" /></a> </p>
 
 - 🔭 I’m currently working on [TSR-Backup](https://github.com/betoidk/TSR-Backup)
 
